@@ -1,0 +1,7 @@
+.main{width:400px;
+height:400px;
+background-color:rgba(0,255,0,.2);
+}
+body{background-image:url("image2.jpg");
+background-repeat:no-repeat;
+}

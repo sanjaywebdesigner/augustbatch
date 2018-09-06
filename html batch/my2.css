@@ -1,0 +1,8 @@
+.main{width:500px;
+height:500px;
+background-image: url(pic4.jpg) , url(pic4.jpg),url(pic4.jpg) , url(pic4.jpg);
+    
+	background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;
+	background-position:100px 100px,bottom right,top right,bottom left;
+
+}
