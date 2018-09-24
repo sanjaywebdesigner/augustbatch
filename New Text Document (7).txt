@@ -1,0 +1,17 @@
+title compulsary  70 max
+description   320 charecters
+broken link not allowed
+image alt tag and title
+images 50kb
+content keywords
+bandwidth 
+2000
+1 gb bandwidth
+1024 mb
+100kb
+30gb bandwidth
+30*1024*10
+307200 times
+1 mb=1024 kb
+100 kb=1/10
+1 mb=10*100kb
