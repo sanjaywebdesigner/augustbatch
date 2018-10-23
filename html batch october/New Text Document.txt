@@ -1,0 +1,16 @@
+a tag
+heading tag  h1 to h6
+paragraph tag
+strong
+em
+span
+ul li advance use
+ol li
+br
+&nbsp;
+margin
+padding
+fixed
+absolute
+relative
+form

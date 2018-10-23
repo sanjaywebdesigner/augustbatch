@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<style>
+.main{width:400px;
+height:300px;
+background-color:red;
+position:relative;
+}
+.s1{
+	width:400px;
+height:50px;
+background-color:green;
+position:absolute;
+top:50px;
+display:none;
+}
+.s2{
+	width:400px;
+height:50px;
+background-color:blue;
+position:absolute;
+top:200px;
+display:none;
+}
+.main:hover .s1{display:block;
+}
+.main:hover .s2{display:block;
+}
+</style>
+</head>
+
+<body>
+<div class="main">
+<div class="s1"></div>
+<div class="s2"></div>
+</div>
+</body>
+</html>

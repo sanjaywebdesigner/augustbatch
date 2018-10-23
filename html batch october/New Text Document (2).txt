@@ -1,0 +1,35 @@
+site design html +css
+
+structure design  static
+html5  design  logo design(graphics),audio,video,geolocation,javascript inbuilt,web connectivity,offline site,systematic design
+css3 animation ,commands flash replace, image,responsive,columns,gradients
+javascript   user power calculations onsite clint side
+jquery  in built software(library)
+php server side language  crud (create,read,update,delete,search)
+forgot password
+change password
+redirection
+login with facebook
+login
+session
+mail connectivity
+responsive   bootstrap  inbuilt
+
+responsive
+10 to 20  starting
+30000  average person
+100000 salary max
+
+ javascript object oriented 
+3 year   angular js   (angular 1  2 months)
+angular 2
+angular 4
+angular 6
+angluar 8
+
+node js
+mongo db
+react js
+express js
+
+php frameworks   1 framework   6 month  laravel
